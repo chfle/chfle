@@ -18,7 +18,7 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 
 ## 📈 Stats    
     
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=material-palenight&hide_border=true)
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
 
