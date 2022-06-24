@@ -1,11 +1,6 @@
 # Hey, I'm Christian Lehnert 👋
-
-<p align="left">
-    <a href="https://stackoverflow.com/users/15773347">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15773347?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/chfle/chfle">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" width="100"/>
   </a>
 <p>
     
