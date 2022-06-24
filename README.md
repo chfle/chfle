@@ -1,5 +1,16 @@
 # Hey, I'm Christian Lehnert 👋
 
+## 🚀 About Me
+
+- **Fav: Backend developer**
+- Born: 2000
+- 🇩🇪
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
+
+![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
+
+
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -28,6 +39,11 @@
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
+
+### Testing
+
+![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 
 ### System
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
