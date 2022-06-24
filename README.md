@@ -8,7 +8,8 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
 <p>
-## 🚀 About Me
+    
+##  🚀 About Me
 
 - **Fav: Backend developer**
 - Born: 2000
@@ -16,9 +17,12 @@
 
 <img width="100" src="images/profile_chle.jpg">
 
-## Contact
+    
+## 📝 Contact
 Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:christian.lehnert.home@protonmail.com">christian.lehnert.home@protonmail.com</a>
 
+## 📈 Stats    
+    
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
