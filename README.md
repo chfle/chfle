@@ -6,6 +6,11 @@
 - Born: 2000
 - 🇩🇪
 
+## Contact
+Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:christian.lehnert.home@protonmail.com">christian.lehnert.home@protonmail.com</a>
+
+<img width="100" src="images/profile_chle.jpg">
+
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
