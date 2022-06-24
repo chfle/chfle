@@ -1,15 +1,23 @@
 # Hey, I'm Christian Lehnert 👋
 
+<p align="left">
+    <a href="https://stackoverflow.com/users/15773347">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15773347?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/chfle/chfle">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+  </a>
+<p>
 ## 🚀 About Me
 
 - **Fav: Backend developer**
 - Born: 2000
 - 🇩🇪
 
+<img width="100" src="images/profile_chle.jpg">
+
 ## Contact
 Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:christian.lehnert.home@protonmail.com">christian.lehnert.home@protonmail.com</a>
-
-<img width="100" src="images/profile_chle.jpg">
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
