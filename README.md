@@ -1,4 +1,5 @@
-![Header](./images/github-header-chfle.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=7FF73A&width=419&height=56&lines=Hey!+I+am+Christian+Lehnert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&width=419&height=56&lines=Backend+developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -10,9 +11,13 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 
 <img width="100" src="images/profile_chle.jpg">
 
+## Stats
+
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=chfle&theme=dracula&rank=-C,-B,?)
 
 
 ## 🛠️ Skills
