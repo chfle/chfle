@@ -1,8 +1,7 @@
-# Hey, I'm Christian Lehnert 👋
+![Header](./images/github-header-chfle.png)
 
 ## 🚀 About Me
 
-- **Fav: Backend developer**
 - Born: 2000
 - 🇩🇪
 
