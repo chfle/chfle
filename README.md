@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Christian Lehnerts's profile!
+  Welcome to Christian Lehnert's profile!
 </h3>
 
 <p align="center">
