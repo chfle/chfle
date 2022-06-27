@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Christian Lehnert's profile!
-    <img src="images/jam.gif" width="25">
+    <img src="images/jam.gif" width="20">
 </h3>
 
 <p align="center">
@@ -12,12 +12,12 @@
 - Born: 2000
 - 🇩🇪
 
-## Contact
+## 📇 Contact
 Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:christian.lehnert.home@protonmail.com">christian.lehnert.home@protonmail.com</a>
 
 <img width="100" src="images/profile_chle.jpg">
 
-## Stats
+## 📊 Stats
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
