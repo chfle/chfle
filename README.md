@@ -1,5 +1,6 @@
 <h3 align="center">
   Welcome to Christian Lehnert's profile!
+    <img src="images/jam.gif" width="25">
 </h3>
 
 <p align="center">
