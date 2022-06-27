@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=7FF73A&width=419&height=56&lines=Hey!+I+am+Christian+Lehnert)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&width=419&height=56&lines=Backend+developer)](https://git.io/typing-svg)
+<h3 align="center">
+  Welcome to Christian Lehnerts's profile!
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&color=3EF71A&lines=Backend+Developer;Linux+User;Always%20learning%20new%20things&center=true&width=440&height=45&vCenter=true&size=22"></a>
+</p>
 
 ## 🚀 About Me
 
