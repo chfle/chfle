@@ -13,7 +13,8 @@
 - 🇩🇪
 
 ## 📇 Contact
-Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:christian.lehnert@tutamail.com">christian.lehnert@tutamail.com</a>
+Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:Christian.lehnert@tutanota.com">Christian.lehnert@tutanota.com
+</a>
 
 <img width="100" src="images/profile_chle.jpg">
 
