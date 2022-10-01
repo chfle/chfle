@@ -16,8 +16,6 @@
 Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mailto:Christian.lehnert@tutanota.com">Christian.lehnert@tutanota.com
 </a>
 
-<img width="100" src="images/profile_chle.jpg">
-
 ## 📊 Stats
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
