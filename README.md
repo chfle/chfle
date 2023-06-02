@@ -17,6 +17,8 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 </a>
 
 ## 📊 Stats
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
