@@ -17,12 +17,13 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 </a>
 
 ## 📊 Stats
-
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chfle&theme=rogue&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfle&layout=compact&custom_title=Most%20used%20languages&langs_count=15&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+</p>
 
 
 ## 🛠️ Skills
