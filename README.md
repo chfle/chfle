@@ -22,7 +22,7 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chfle&theme=dracula&rank=-C,-B,?)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chfle&theme=rogue&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ Skills
