@@ -20,7 +20,7 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=chfle&theme=rogue)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chfle&theme=dracula&rank=-C,-B,?)
 
