@@ -19,15 +19,9 @@ Christian Lehnert - [@ChrLehnert](https://twitter.com/ChrLehnert) - <a href="mai
 </a>
 
 ## 📊 Stats
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
-
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfle&layout=compact&custom_title=Most%20used%20languages&langs_count=15&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
-</p>
 
 # Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
