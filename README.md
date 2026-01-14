@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Christian Lehnert's profile!
+  Welcome to Christian Lehnert's profile! |  ברוכים הבאים לפרופיל של כריסטיאן להנרט!
     <img src="images/jam.gif" width="20">
 </h3>
 
