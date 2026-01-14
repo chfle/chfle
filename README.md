@@ -11,8 +11,13 @@
 
 ## 🚀 About Me
 
-- Born: 2000
-- 🇩🇪
+- Born 2000
+- Software Developer (Linux, backend, security-aware)
+- OS: Debian
+- Window Manager: i3
+- Terminal Multiplexer: tmux
+- Keyboards: HHKB Pro, HHKB Classic
+- Daily Torah reader
 
 ## 📇 Contact
 Christian Lehnert - <a href="mailto:Christian.lehnert@tutanota.com">Christian.lehnert@tutanota.com
