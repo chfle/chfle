@@ -18,9 +18,13 @@ hardware, behind my own perimeter, with my own keys.
 
 ## Currently
 
-- **[c0xl.ch](https://c0xl.ch)** — personal infrastructure: XMPP, VPN, file sync, MCP servers.
-- **MCP servers** — `pdf.c0xl.ch` (Word→PDF), more in the queue.
-- **Homelab** — Proxmox cluster on Dell VRTX (3× M630 blades), Cisco / MikroTik fabric.
+- **[c0xl.ch](https://c0xl.ch)** — personal infrastructure  
+  ![c0xl.ch](https://status.c0xl.ch/api/badge/1/status?style=flat-square&label=c0xl.ch)
+  ![chat.c0xl.ch](https://status.c0xl.ch/api/badge/2/status?style=flat-square&label=xmpp)
+  ![sync.c0xl.ch](https://status.c0xl.ch/api/badge/3/status?style=flat-square&label=vpn)
+  ![pdf.c0xl.ch](https://status.c0xl.ch/api/badge/4/status?style=flat-square&label=pdf-mcp)
+- **MCP servers** — `pdf.c0xl.ch` (Word→PDF), more in the queue
+- **Homelab** — Proxmox cluster on Dell VRTX (3× M630 blades)
 
 ## Stack — the honest version
 
