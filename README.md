@@ -1,12 +1,12 @@
-<h3 align="center">
-  Christian Lehnert · <code>c0xl.ch</code>
-</h3>
-
 <p align="center">
-  I write backend code and break things on purpose. &nbsp;·&nbsp; 🇨🇭
+  Christian Lehnert &nbsp;·&nbsp; Backend & Security &nbsp;·&nbsp; Self-hosting since 2012 &nbsp;·&nbsp; 🇨🇭
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/chfle/chfle?style=flat-square&label=last%20commit&color=3EF71A" />
+  <img src="https://img.shields.io/github/followers/chfle?style=flat-square&label=followers&color=3EF71A" />
+  <img src="https://komarev.com/ghpvc/?username=chfle&style=flat-square&color=3EF71A&label=profile+views" />
+</p>
 
 ## whoami
 
