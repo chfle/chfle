@@ -24,7 +24,6 @@ Christian Lehnert - <a href="mailto:Christian.lehnert@tutanota.com">Christian.le
 </a>
 
 ## 📊 Stats
-[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chfle&theme=dracula)](https://streak-stats.demolab.com/?user=chfle&theme=dracula&hide_border=true&starting_year=2000&hide_longest_streak=true&hide_current_streak=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=chfle&theme=rogue)
 
