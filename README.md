@@ -26,6 +26,11 @@ hardware, behind my own perimeter, with my own keys.
 - **MCP servers** — `pdf.c0xl.ch` (Word→PDF), more in the queue
 - **Homelab** — Proxmox cluster on Dell VRTX (3× M630 blades)
 
+## Today's daf
+
+<!-- DAILY:START -->
+<!-- DAILY:END -->
+
 ## Stack — the honest version
 
 | Domain | Tools I actually use |
