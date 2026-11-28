@@ -29,8 +29,8 @@ hardware, behind my own perimeter, with my own keys.
 ## Today's daf
 
 <!-- DAILY:START -->
-<!-- updated 2026-11-27 13:58 UTC -->
-📖 **[Arakhin 10](https://www.sefaria.org/Arakhin.10)** &nbsp;·&nbsp; 17 Kislev 5787 &nbsp;·&nbsp; Parashat Vayishlach &nbsp;·&nbsp; day **7** of the [log](./DAF_LOG.md)
+<!-- updated 2026-11-28 13:11 UTC -->
+📖 **[Arakhin 11](https://www.sefaria.org/Arakhin.11)** &nbsp;·&nbsp; 18 Kislev 5787 &nbsp;·&nbsp; Parashat Vayishlach &nbsp;·&nbsp; day **8** of the [log](./DAF_LOG.md)
 <!-- DAILY:END -->
 
 ## Stack — the honest version

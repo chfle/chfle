@@ -11,3 +11,4 @@ One line per day, written by [`daily.yml`](.github/workflows/daily.yml).
 | 5 | 2026-11-25 | 15 Kislev 5787 | [Arakhin 8](https://www.sefaria.org/Arakhin.8) | Vayishlach |
 | 6 | 2026-11-26 | 16 Kislev 5787 | [Arakhin 9](https://www.sefaria.org/Arakhin.9) | Vayishlach |
 | 7 | 2026-11-27 | 17 Kislev 5787 | [Arakhin 10](https://www.sefaria.org/Arakhin.10) | Vayishlach |
+| 8 | 2026-11-28 | 18 Kislev 5787 | [Arakhin 11](https://www.sefaria.org/Arakhin.11) | Vayishlach |
